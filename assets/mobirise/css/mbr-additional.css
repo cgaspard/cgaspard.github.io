@@ -1179,7 +1179,7 @@ section.lazy-placeholder:after {
 .cid-rXBmImOf9p {
   padding-top: 15px;
   padding-bottom: 15px;
-  background: linear-gradient(0deg, #ffffff, #ffffff);
+  background: linear-gradient(0deg, #efefef, #efefef);
 }
 .cid-rXBmImOf9p .mbr-iconfont-social {
   font-size: 32px;
@@ -1284,6 +1284,11 @@ section.lazy-placeholder:after {
 }
 .cid-rXzj8Bp9LB .mbr-text {
   color: #767676;
+}
+.cid-rXMkSIsDSN {
+  padding-top: 15px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 .cid-rXzudXntnR {
   padding-top: 90px;
